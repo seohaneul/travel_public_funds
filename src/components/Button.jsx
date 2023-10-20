@@ -9,7 +9,7 @@ export default function button() {
 
 const InputButton = styled.input`
     margin-top: 40px;
-    width: 300px;
+    width: 200px;
     height: 40px;
     background-color: #fff;
     border: 1px solid black;
